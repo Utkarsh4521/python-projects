@@ -18,7 +18,7 @@ The goal of this repository is to:
 | 1️⃣ | Number Guessing Game | A game where the user guesses a randomly generated number |
 | 2️⃣ | Rock Paper Scissors game | a game where user plays rock paper scissors against computer. |
 | 3️⃣ | Hangman game |A game where user guess the word in the given limit. |
-| 4️⃣ | (Coming Soon) | Will be added soon |
+| 4️⃣ | BMI calculator | calculates whether the user is underweight normal or overweight. |
 | 5️⃣ | (Coming Soon) | Will be added soon |
 
 ---
